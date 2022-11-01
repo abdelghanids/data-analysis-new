@@ -4,11 +4,11 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abdelghanids/data-analysis-new/master?filepath=index.ipynb)
 
-## Présentation
+## Présentation 
 
 Il s'agit d'un ensemble de données historiques sur les Jeux Olympiques modernes, d'Athènes 1896 à Rio 2016. Chaque ligne se compose d'un athlète individuel participant à une épreuve olympique et de la médaille remportée (le cas échéant).
 
-<img src="jeux_olympics.png"
+<img src="img/jeux_olympics.png"
       />
 
 **Dictionnaire de données**
@@ -50,7 +50,7 @@ Et on observe que dans cette période ces dernies a remportés plusieurs médail
 
 Les Irlandais au début n'accordaient pas l'importance et la valeur au jeux olympics , mais ils ont changés cette montalaité, ou l'on voit qu'ils ont obtenu plusieurs medailles de bronze , d'argent et aussi d'or à la fin de XXe siècle.
 
-<img src="gold_medal1.png"
+<img src="img/gold_medal1.png"
       />
    Exemple d'augmentation des médailles selon les années   
 
@@ -60,7 +60,7 @@ Les Irlandais au début n'accordaient pas l'importance et la valeur au jeux olym
 
 ## Conclusion 
 
-<img src="output.png"
+<img src="img/output.png"
       />
 
   Comme nous pouvons le voir sur ce graphique que les Irlandais ont obtenus le splus grand nombre de médailles en l'an 2000 à Sydney.
