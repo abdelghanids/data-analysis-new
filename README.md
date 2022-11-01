@@ -12,6 +12,7 @@ Il s'agit d'un ensemble de données historiques sur les Jeux Olympiques modernes
       />
 
 **Dictionnaire de données**
+
 |Column   |Explanation                   |
 | ------- | ---------------------------- |
 |id       |Unique number for each athlete |
@@ -32,6 +33,7 @@ Il s'agit d'un ensemble de données historiques sur les Jeux Olympiques modernes
 
 
 **:file_folder: base de données**
+
 |    |   Unnamed: 0 |   id | name                     | sex   |   age |   height |   weight | team           | noc   | games       |   year | season   | city      | sport         | event                            | medal   |
 |---:|-------------:|-----:|:-------------------------|:------|------:|---------:|---------:|:---------------|:------|:------------|-------:|:---------|:----------|:--------------|:---------------------------------|:--------|
 |  0 |            0 |    1 | A Dijiang                | M     |    24 |      180 |       80 | China          | CHN   | 1992 Summer |   1992 | Summer   | Barcelona | Basketball    | Basketball Men's Basketball      | nan     |
@@ -42,11 +44,27 @@ Il s'agit d'un ensemble de données historiques sur les Jeux Olympiques modernes
 
 
 
-
-
 ## Analyse
+On note à travers ces données ,que 5718 joueurs néerlandais ont participé aux jeux olympiques de 1896 à2016 .
+Et on observe que dans cette période ces dernies a remportés plusieurs médailles dans le parcours de sa participation, qui fut multiples.
+
+Les Irlandais au début n'accordaient pas l'importance et la valeur au jeux olympics , mais ils ont changés cette montalaité, ou l'on voit qu'ils ont obtenu plusieurs medailles de bronze , d'argent et aussi d'or à la fin de XXe siècle.
+
+<img src="gold_medal1.png"
+      />
+   Exemple d'augmentation des médailles selon les années   
+
+
+
 
 
 ## Conclusion 
+
+<img src="output.png"
+      />
+
+  Comme nous pouvons le voir sur ce graphique que les Irlandais ont obtenus le splus grand nombre de médailles en l'an 2000 à Sydney.
+  Ils ont gagné 23 medaille de bronze , 27 medaille d'or et 29 medaille d'argent.Etre total 79.
+
 
 
