@@ -65,6 +65,8 @@ Les Irlandais au début n'accordaient pas l'importance et la valeur au jeux olym
 
   Comme nous pouvons le voir sur ce graphique que les Irlandais ont obtenus le splus grand nombre de médailles en l'an 2000 à Sydney.
   Ils ont gagné 23 medaille de bronze , 27 medaille d'or et 29 medaille d'argent.Etre total 79.
+  On peut aussi interpréte de cette analyse que le hockey a le plus de médailles .
+  Il y a une cohérence entre la taille de joueur de aviron et le gagne de medaille
 
 
 
